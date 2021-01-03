@@ -1,0 +1,65 @@
+
+.cabecera{
+	background-color: #D0C890;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-color: #FFFFFF;
+}
+
+.lado{
+	background-color: #ECE7CB;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	height: 700px;
+}
+
+.carritoCompra{
+	width: 100px !important;
+	height: 100px !important;
+}
+
+#txtNombreProducto{
+	background-image: url(../img/lupa-02.svg);
+  	background-repeat: no-repeat;
+  	background-size: 25px 25px;
+  	background-position: 96% 50%;
+}
+
+.lb_izquierdo{
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-color: #FFFFFF;
+}
+
+.btnCancelarPedido{
+	background-color: #CB6120;
+	color: #FFFFFF;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+
+}
+
+.btnIcono{
+	background-color: #ECE7CB;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-color: #FFFFFF;
+}
+.btnConfirmarPedido{
+	background-color: #A2BD31;
+	color: #FFFFFF;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.btn_add_product{
+	width: 33px;
+	height: 33px;
+}
