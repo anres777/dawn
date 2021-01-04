@@ -63,3 +63,11 @@
 	width: 33px;
 	height: 33px;
 }
+
+.boton:hover{
+	transform: scale(1.02);
+	cursor: pointer;
+}
+.boton:active{
+	transform: scale(1);
+}
